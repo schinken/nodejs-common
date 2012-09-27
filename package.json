@@ -1,0 +1,25 @@
+{
+    "name": "common",
+    "version": "0.1.0",
+    "author": "schinken <schinken@hackerspace-bamberg.de>",
+    "description": "some common libraries",
+    "contributors": [
+        {
+            "name": "schinken",
+            "email": "schinken@hackerspace-bamberg.de"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/schinken/nodejs-common"
+    },
+    "keywords": [
+        "common",
+        "moving average",
+        "clamp",
+        "map range"
+    ],
+    "engine": {
+        "node": ">=0.6"
+    }
+}
