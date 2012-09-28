@@ -15,7 +15,7 @@
     },
     "keywords": [
         "common",
-        "moving average",
+        "smoothing",
         "clamp",
         "map range"
     ],
